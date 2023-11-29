@@ -1,0 +1,7 @@
+<div *ngFor="let task of tasks">
+  <span
+    [appTaskCompleted]="task.state === 'COMPLETADA'"
+    [appPriority]="task.priority"
+    >{{ task.name }}</span
+  >
+</div>
