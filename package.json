@@ -9,6 +9,7 @@
     "start:angularzone": "ng serve angularzone",
     "start:directivaspersonalizadas": "ng serve directivaspersonalizadas",
     "start:carga-perezosa-ejercicio": "ng serve carga-perezosa-ejercicio",
+    "start:interceptor-example": "ng serve interceptor-example ",
     "start:practica": "ng serve practica",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
