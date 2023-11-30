@@ -8,6 +8,7 @@
     "start:holamundo2": "ng serve holamundo2",
     "start:angularzone": "ng serve angularzone",
     "start:directivaspersonalizadas": "ng serve directivaspersonalizadas",
+    "start:carga-perezosa-ejercicio": "ng serve carga-perezosa-ejercicio",
     "start:practica": "ng serve practica",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
