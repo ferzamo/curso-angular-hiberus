@@ -517,12 +517,15 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "projects/practica/src/favicon.ico",
-              "projects/practica/src/assets"
+              "projects/practica/src/assets",
+              "projects/practica/src/manifest.webmanifest"
             ],
             "styles": [
               "projects/practica/src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [],
+            "serviceWorker": true,
+            "ngswConfigPath": "projects/practica/ngsw-config.json"
           },
           "configurations": {
             "production": {
@@ -580,7 +583,8 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "projects/practica/src/favicon.ico",
-              "projects/practica/src/assets"
+              "projects/practica/src/assets",
+              "projects/practica/src/manifest.webmanifest"
             ],
             "styles": [
               "projects/practica/src/styles.scss"
